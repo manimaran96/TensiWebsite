@@ -1,18 +1,12 @@
-Developer 
+# Tensi = Top Ten Software and Information
+>Tensi website is my 2nd year mini project.which is used category of top 10 software list and information wiki links also used.
 
-Manimaran.K
+##Developer
+>###*Manimaran.K*
 
-Tensi = Top 10 software and Information
-
-This is my 2nd year mini project.
-
-
-About me:
-
-Manimaran.K 
-BE-CSE
-9600789681
-manimaraninam1027@gmail.com
-https://www.facebook.com/manimaran.cse.1
-https://twitter.com/Manimaran_lpt 
-
+##**About me**
+        Manimaran.K
+        Computer Science Engineering
+        manimaraninam1027@gmail.com
+        Facebook - https://www.facebook.com/manimaran.cse.1
+        Twitter - https://twitter.com/Manimaran_lpt
