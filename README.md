@@ -1,5 +1,5 @@
-# Tensi = Top Ten Software and Information
->Tensi website is my 2nd year mini project.which is used category of top 10 software list and information wiki links also used.
+# TENSI = Top Ten Software and Information
+        Tensi website is my 2nd year mini project.which is used category of top 10 software list and information wiki links also used.
 
 ##Developer
 >###*Manimaran.K*
