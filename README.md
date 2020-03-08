@@ -2,13 +2,13 @@
         Tensi website is my 2nd year mini project.
         which is used category of top 10 software list and information wiki links also used.
 
-##Developer
->###*Manimaran.K*
+## Developer
+>### *Manimaran.K*
 
-##My Blog
->[https://manimaran96.wordpress.com](https://manimaran96.wordpress.com) 
+## My Blog
+> [https://manimaran96.wordpress.com](https://manimaran96.wordpress.com) 
 
-##**About me**
+## **About me**
         Manimaran.K
         Computer Science Engineering
         manimaraninam1027@gmail.com
